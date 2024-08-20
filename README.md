@@ -39,15 +39,15 @@ From the End Users side (Karen Smith), they create a ticket through osTickets lo
 <p>
 The End User then writes ticket through the Issue Summary and adds a subject and details of the ticket much similiar to writing an email. 
 </p>
-In this example, Karen creates the ticket under the Help Topic of a Business Critical Outage, explaining the mobile baking operation is suffering a 404 error
+In this example, Karen creates the ticket under the Help Topic of a Business Critical Outage, explaining the mobile banking operation is suffering a 404 error
 </p>
 <p>
 <img src="https://i.imgur.com/RKfGwrM.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Karen then creates the ticket and is sent to Agent Jane Doe (which we've set as Supreme Admin is able too see all incoming tickets in the configuration tutorial) who views it from the local help desk login
+Karen then creates the ticket and is sent to Agent Jane Doe (which we've set as Supreme Admin; is able too see all incoming tickets in the configuration tutorial) who views it from the local help desk login
 <p>
-Priorities have not been set for other incoming tickets such as ticket #174883 where end user Ken is requesting an upgrade to Adobe Reader. SLA plans need to be set for these tickets hence why they are all under the priority state of "Normal"
+Priorities have not been set for other incoming tickets such as ticket #174883 where end-user Ken is requesting an upgrade to Adobe Reader. SLA plans need to be set for these tickets hence why they are all under the priority state of "Normal"
 </p>
 <img src="https://i.imgur.com/O04oImP.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 </p>
